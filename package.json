@@ -1,0 +1,25 @@
+{
+  "name": "vision_backend_test_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NCSU-Microservice-Benchmarking/vision_backend_test_server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NCSU-Microservice-Benchmarking/vision_backend_test_server/issues"
+  },
+  "homepage": "https://github.com/NCSU-Microservice-Benchmarking/vision_backend_test_server#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1",
+    "request": "^2.88.2"
+  }
+}
